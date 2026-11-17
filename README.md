@@ -2,7 +2,7 @@
 
 A small Windows domain built from scratch in VirtualBox: a domain controller with AD DS, DNS, DHCP and NAT, a domain-joined Windows 10 client, bulk-created users, and the helpdesk tasks an IT support role does every day (password resets, lockouts, groups, Group Policy).
 
-**Built by Rafay Khan.** I followed Josh Madakor's Active Directory home lab tutorial and added my own admin tasks and troubleshooting notes.
+I followed Josh Madakor's Active Directory home lab tutorial and added my own admin tasks and troubleshooting notes.
 
 ## What this lab covers
 
